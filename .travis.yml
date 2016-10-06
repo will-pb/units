@@ -1,5 +1,5 @@
 language: objective-c
 osx_image: xcode8
-xcode_project: Units.xcodeproj
-xcode_scheme: Units
-xcode_sdk: iphonesimulator10.0
+#xcode_project: Units.xcodeproj
+#xcode_scheme: Units
+#xcode_sdk: iphonesimulator10.0
